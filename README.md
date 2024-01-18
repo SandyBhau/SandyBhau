@@ -4,7 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science & Analytics
 ------------------------
 
-Developer with Over 8 years of dynamic experience implementing Data Science and Intelligent Automation with innovative strategies to enhance service quality, delivery, and team efficiencies. Proficient in the entire machine learning lifecycle, from requirements collection and data analysis to model creation, deployment, and monitoring. ● Expertise in Solution Designing, POCs, Coding, Requirement Analysis, Database Operations, Application Support, and Deployment. ● Designed chatbots using Rule-Based Systems, incorporating predefined rules, decision trees, and specific responses for known user intents. Integrated Forecasting and NLP for targeted value extraction. Applied Reinforcement Learning (RL) algorithms to train chatbots, leveraging context-aware models like GPT-3 and GPT-4 for optimal dialogue flow. ● Designed end-to-end Machine Learning use cases, from requirements gathering to data analysis, model building, deployment, and monitoring. Skilled in Azure platform, MLOps, CI/CD pipelines, model performance analysis, and behavior assessment. Proficient in version control tools and modular Python packaging for efficient code development. ● Implemented 30+ RPA processes across diverse domains using Python, BluePrism, UiPath, Automation Anywhere, and VBA Macros. ● Mentored and trained new team members in project adaptation, conducting sessions on Azure pipelines, KT sessions, BluePrism, UiPath, and VBA Macros. Skills - ● Machine Learning, Time Series Forecasting, Anomaly Detection, A/B Hypothesis Testing ● Generative AI, NLP, NLQ, LLM, GPT Models, Chatbot, Hugging Face, Open AI, Langchain ● Tools – Power BI, Excel, RPA, GitHub, Docker ● Azure Cloud Services – Logic App, Function App, CI/CD pipeline, ML Ops, DevOps, Data Factory, Databricks, ACI, Blob Storage ● Programming Language – Python, VBA, SQL, HTML, Web Scraping, C#
+Developer with Over 8 years of dynamic experience implementing Data Science and Intelligent Automation with innovative strategies to enhance service quality, delivery, and team efficiencies. Proficient in the entire machine learning lifecycle, from requirements collection and data analysis to model creation, deployment, and monitoring. 
+● Expertise in Solution Designing, POCs, Coding, Requirement Analysis, Database Operations, Application Support, and Deployment. 
+● Designed chatbots using Rule-Based Systems, incorporating predefined rules, decision trees, and specific responses for known user intents. Integrated Forecasting and NLP for targeted value extraction. Applied Reinforcement Learning (RL) algorithms to train chatbots, leveraging context-aware models like GPT-3 and GPT-4 for optimal dialogue flow. 
+● Designed end-to-end Machine Learning use cases, from requirements gathering to data analysis, model building, deployment, and monitoring. Skilled in Azure platform, MLOps, CI/CD pipelines, model performance analysis, and behavior assessment. Proficient in version control tools and modular Python packaging for efficient code development. 
+● Implemented 30+ RPA processes across diverse domains using Python, BluePrism, UiPath, Automation Anywhere, and VBA Macros. 
+● Mentored and trained new team members in project adaptation, conducting sessions on Azure pipelines, KT sessions, BluePrism, UiPath, and VBA Macros. 
+
+**Skills** - 
+● Machine Learning, Time Series Forecasting, Anomaly Detection, A/B Hypothesis Testing 
+● Generative AI, NLP, NLQ, LLM, GPT Models, Chatbot, Hugging Face, Open AI, Langchain 
+● **Tools** – Power BI, Excel, RPA, GitHub, Docker 
+●** Azure Cloud Services** – Logic App, Function App, CI/CD pipeline, ML Ops, DevOps, Data Factory, Databricks, ACI, Blob Storage
+●** Programming Language** – Python, VBA, SQL, HTML, Web Scraping, C#
 
 *   🌍  I'm based in London
 *   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/sandesh-bharitkar/)
