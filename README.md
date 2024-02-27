@@ -23,7 +23,7 @@ Developer with Over 8 years of dynamic experience implementing Data Science and 
 *   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/sandesh-bharitkar/)
 *   Please check Project Demo
 *   QnA Chatbot using Meta Hugging Face [ChatBot](https://all-projects-sandesh.streamlit.app/llama2_QnA_Chatbot)
-*   Monkey Pox Prediction [Predictor](https://all-projects-sandesh.streamlit.app/Monkey_Pox_Predictor
+*   Monkey Pox Prediction [Predictor](https://all-projects-sandesh.streamlit.app/Monkey_Pox_Predictor)
 *   Free Translator to English Language [Translator](https://all-projects-sandesh.streamlit.app/Translator)
 *   Sentiment Analysis [Sentiment_Analysis](https://all-projects-sandesh.streamlit.app/Sentiment_Analysis)
 *   ✉️  You can contact me at [sandeshbharitkar24@gmail.com](mailto:sandeshbharitkar24@gmail.com)<a href="https://www.github.com/SandyBhau" target="_blank" rel="noreferrer"><img
